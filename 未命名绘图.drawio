@@ -254,7 +254,7 @@
           <mxGeometry height="30" width="200" x="-760" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="vAVcokpftzdFtSS3G2Ni-71" parent="1" style="text;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=16;fontStyle=0;fontColor=#000000;align=left;" value="Difference of Squares:&#xa;`a^2 - b^2 = (a-b)(a+b)`" vertex="1">
-          <mxGeometry height="60" width="200" x="-760" y="1120" as="geometry" />
+          <mxGeometry height="60" width="200" x="-758" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
