@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 2 页" id="kzH3HTyMGUzV51dLycnv">
-    <mxGraphModel dx="2440" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2388" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
         <mxCell id="vAVcokpftzdFtSS3G2Ni-60" parent="1" style="text;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=15;fontStyle=0;fontColor=#000000;" value="When integrand has form `f&#39;(x) * g(f(x))`, use substitution `u=f(x)`   immediately to simplify." vertex="1">
           <mxGeometry height="60" width="255" x="439.5" y="651.25" as="geometry" />
         </mxCell>
-        <mxCell id="vAVcokpftzdFtSS3G2Ni-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Problem:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Evaluate `99^2-1` without a calculator&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Problem:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Evaluate &lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;`99^2-1`&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt; without a calculator&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="130" x="-920" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="vAVcokpftzdFtSS3G2Ni-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Step 1:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Expand&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`99\times 99`&lt;/span&gt;&lt;/div&gt;" vertex="1">
