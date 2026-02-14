@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 2 页" id="kzH3HTyMGUzV51dLycnv">
-    <mxGraphModel dx="2983" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2701" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,8 +226,26 @@
         <mxCell id="vAVcokpftzdFtSS3G2Ni-60" parent="1" style="text;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=15;fontStyle=0;fontColor=#000000;" value="When integrand has form `f&#39;(x) * g(f(x))`, use substitution `u=f(x)`   immediately to simplify." vertex="1">
           <mxGeometry height="60" width="255" x="439.5" y="651.25" as="geometry" />
         </mxCell>
-        <mxCell id="vAVcokpftzdFtSS3G2Ni-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;fontColor=#333333;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Problem:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Evaluate `99^2-1` without a calculator&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Problem:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Evaluate `99^2-1` without a calculator&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="130" x="-920" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Step 1:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Expand&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`99\times 99`&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="80" x="-760" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Step 2:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Calculate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`99\times 90 = 8910`&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`99\times 9 = 891`&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="-650" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Step 3:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Sum&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`8910+891=9701` &lt;b&gt;(Error!)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="130" x="-480" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Final Result:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`9701-1=9700`&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(Incorrect)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="-320" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-66" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJlbW9qaSIgdmlld0JveD0iMTIuODU2OTk1NTgyNTgwNTY2IDEyLjc2NzAwMTE1MjAzODU3NCA0Ni4yODQwMDQyMTE0MjU3OCA0Ni40NjU5OTk2MDMyNzE0ODQiIHdpZHRoPSI0Ni4yODQwMDQyMTE0MjU3OCIgaGVpZ2h0PSI0Ni40NjU5OTk2MDMyNzE0ODQiPiYjeGE7ICA8ZyBpZD0iY29sb3IiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiNlYTVhNDciIGQ9Im01OC4xNCAyMS43OC03Ljc2LTguMDEzLTE0LjI5IDE0LjIyLTE0LjIyLTE0LjIyLTguMDEzIDguMDEzIDE0LjM2IDE0LjIyLTE0LjM2IDE0LjIyIDguMDE0IDguMDEzIDE0LjIyLTE0LjIyIDE0LjI5IDE0LjIyIDcuNzYtOC4wMTMtMTQuMjItMTQuMjJ6Ii8+JiN4YTsgIDwvZz4mI3hhOyAgPGcgaWQ9ImhhaXIiLz4mI3hhOyAgPGcgaWQ9InNraW4iLz4mI3hhOyAgPGcgaWQ9InNraW4tc2hhZG93Ii8+JiN4YTsgIDxnIGlkPSJsaW5lIj4mI3hhOyAgICA8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im01OC4xNCAyMS43OC03Ljc2LTguMDEzLTE0LjI5IDE0LjIyLTE0LjIyLTE0LjIyLTguMDEzIDguMDEzIDE0LjM1IDE0LjIyLTE0LjM1IDE0LjIyIDguMDE0IDguMDEzIDE0LjIyLTE0LjIyIDE0LjI5IDE0LjIyIDcuNzYtOC4wMTMtMTQuMjItMTQuMjJ6Ii8+JiN4YTsgIDwvZz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="-270" y="888" as="geometry" />
+        </mxCell>
+        <mxCell id="vAVcokpftzdFtSS3G2Ni-67" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJlbW9qaSIgdmlld0JveD0iOS41IDE0LjI4Njk5OTcwMjQ1MzYxMyA1MyA0My45MTI5OTgxOTk0NjI4OSIgd2lkdGg9IjUzIiBoZWlnaHQ9IjQzLjkxMjk5ODE5OTQ2Mjg5Ij4mI3hhOyAgPGcgaWQ9ImNvbG9yIj4mI3hhOyAgICA8cGF0aCBmaWxsPSIjYjFjYzMzIiBkPSJtNjEuNSAyMy4zLTguMDEzLTguMDEzLTI1LjcxIDI1LjcxLTkuMjYtOS4yNi04LjAxMyA4LjAxMyAxNy40MiAxNy40NHoiLz4mI3hhOyAgPC9nPiYjeGE7ICA8ZyBpZD0ibGluZSI+JiN4YTsgICAgPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtMTAuNSAzOS43NiAxNy40MiAxNy40NCAzMy41OC0zMy44OS04LjAxMy04LjAxMy0yNS43MSAyNS43MS05LjI2LTkuMjZ6Ii8+JiN4YTsgIDwvZz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
+          <mxGeometry height="40" width="48.18" x="-150" y="848" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
