@@ -310,12 +310,6 @@
             <mxPoint x="-510" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vAVcokpftzdFtSS3G2Ni-84" parent="1" style="text;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=18;fontStyle=1;fontColor=#FF6666;align=left;" value="High Tokens, Maybe Error" vertex="1">
-          <mxGeometry height="40" width="280" x="-480" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="vAVcokpftzdFtSS3G2Ni-85" parent="1" style="text;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=18;fontStyle=1;fontColor=#00CC66;align=left;" value="Low Tokens, Accurate" vertex="1">
-          <mxGeometry height="30" width="280" x="-480" y="1180" as="geometry" />
-        </mxCell>
         <mxCell id="vAVcokpftzdFtSS3G2Ni-86" parent="1" style="text;whiteSpace=wrap;fontFamily=Arial;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArial;fontSize=18;fontStyle=1;fontColor=#FF6666;align=left;" value="Standard CoT" vertex="1">
           <mxGeometry height="30" width="130" x="-557" y="880" as="geometry" />
         </mxCell>
